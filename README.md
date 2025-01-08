@@ -72,7 +72,7 @@ The script is designed to handle dynamic fields based on the column IDs provided
 
 ### Helpful Resources
 
-- [Google Ads Lead Form Extensions Overview](https://support.google.com/google-ads/answer/10269793): Learn more about setting up lead form extensions.
+- [Google Ads Lead Form Extensions Overview](https://developers.google.com/google-ads/api/reference/rpc/v18/LeadFormSubmissionData): Learn more about importing Lead Form Submission Data using Google Ads API.
 - [Google Apps Script Documentation](https://developers.google.com/apps-script/): Detailed documentation for working with Apps Script.
 - [SpreadsheetApp Class](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app): Documentation for interacting with Google Sheets in Apps Script.
 - [MailApp Class](https://developers.google.com/apps-script/reference/mail/mail-app): Guide for sending email notifications in Apps Script.
